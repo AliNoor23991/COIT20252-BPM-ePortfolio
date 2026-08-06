@@ -32,10 +32,12 @@ Huy, P.Q. & Phuc, V.K. (2025). *Unveiling how business process management capabi
 DOI: https://doi.org/10.1108/BPMJ-06-2024-0467
 
 **Summary**
+
 This journal article explains that Business Process Management (BPM) is more than improving individual business processes. It discusses how BPM capabilities help organisations make better decisions, respond to changing business environments and support sustainable digital transformation. The authors emphasise that organisations can improve overall performance when business processes are aligned with strategic goals and continuously monitored and improved. This article demonstrates that BPM is a management approach that creates long-term organisational value rather than simply documenting workflows.
 
 
 **Reflection**
+
 As studying Information Systems and working in customer service, I realised that well-managed business processes can improve service quality, reduce delays and create a better customer experience. I selected this article because it strengthened my understanding of the importance of BPM, which was introduced in Week 1. Before studying this topic, I thought BPM mainly focused on documenting business processes. After reading this article and reviewing the lecture, I realised that BPM is a strategic management approach that supports decision-making, continuous improvement and organisational performance. This artefact helped me connect the theoretical concepts from Week 1 with a real-world research example and showed me why BPM is essential for organisations operating in a rapidly changing digital environment.
 
 
