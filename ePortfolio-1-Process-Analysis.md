@@ -24,7 +24,10 @@
 
 ## Title
 What is BPM? Why BPM matters
-**Source:**
+**Source:** **Source**
+
+Huy, P.Q. & Phuc, V.K. (2025). *Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation*. Business Process Management Journal, 31(8), 67–103.
+DOI: https://doi.org/10.1108/BPMJ-06-2024-0467
 
 **Summary**
 
