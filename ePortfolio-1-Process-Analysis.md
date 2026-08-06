@@ -23,7 +23,7 @@
 # Artefact 1
 
 ## Title
-What is Business Process Management (BPM)? Why Does BPM Matter?
+**What is Business Process Management (BPM)? Why Does BPM Matter?**
 
 Type: Journal Article (2025)
 
