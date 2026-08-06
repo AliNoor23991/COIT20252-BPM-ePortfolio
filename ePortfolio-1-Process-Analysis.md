@@ -23,7 +23,7 @@
 # Artefact 1
 
 ## Title
-
+What is BPM? Why BPM matters
 **Source:**
 
 **Summary**
@@ -39,7 +39,7 @@
 # Artefact 2
 
 ## Title
-
+BPM Life Cycle & Core Principles
 **Source:**
 
 **Summary**
@@ -55,7 +55,7 @@
 # Artefact 3
 
 ## Title
-
+Why Process Analysis?
 **Source:**
 
 **Summary**
@@ -71,7 +71,7 @@
 # Artefact 4
 
 ## Title
-
+Root Cause & Bottleneck Analysis
 **Source:**
 
 **Summary**
