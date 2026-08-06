@@ -39,7 +39,7 @@ This journal article explains that Business Process Management (BPM) is more tha
 
 **Reflection**
 
-As studying Information Systems and working in customer service, I realised that well-managed business processes can improve service quality, reduce delays and create a better customer experience. I selected this article because it strengthened my understanding of the importance of BPM, which was introduced in Week 1. Before studying this topic, I thought BPM mainly focused on documenting business processes. After reading this article and reviewing the lecture, I realised that BPM is a strategic management approach that supports decision-making, continuous improvement and organisational performance. This artefact helped me connect the theoretical concepts from Week 1 with a real-world research example and showed me why BPM is essential for organisations operating in a rapidly changing digital environment.
+As studying Information Systems and working in customer service, I realised that well-managed business processes can improve service quality, reduce delays and create a better customer experience. I selected this article because it strengthened my understanding of the importance of BPM,which was introduced in Week 1 (Galea, 2026, Week 1 slides). Before studying this topic, I thought BPM mainly focused on documenting business processes. After reading this article and reviewing the lecture, I realised that BPM is a strategic management approach that supports decision-making, continuous improvement and organisational performance. This artefact helped me connect the theoretical concepts from Week 1 with a real-world research example and showed me why BPM is essential for organisations operating in a rapidly changing digital environment.
 
 
 ---
