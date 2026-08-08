@@ -59,7 +59,7 @@ Lecture Notes in Computer Science, vol. 16044, Springer, Cham,
 pp. 13–16.
 ## https://doi.org/10.1007/978-3-032-02867-9_2
 
-![Business Process Optimization and operational decision-making](images/artefact2.png)
+![Business Process Optimization](artefact2.png)
 
 *Figure 2: Business Process Optimization and operational decision-making (Dijkman, 2025, p. 13).*
 
