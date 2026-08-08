@@ -1,5 +1,4 @@
-# COIT20252 – Business Process Management
-
+# COIT20252  Business Process Management
 # e-Portfolio 1: Process Analysis
 
 **Student Name:** Sayed Ali Noor Haque
@@ -8,7 +7,7 @@
 
 **Unit:** COIT20252 Business Process Management
 
-Submitted to: 
+## Submitted to: 
 
 Ahsan Morshed
 Unit Coordinator
@@ -20,20 +19,20 @@ Tutor
 
 **Submission:** e-Portfolio 1
 
----
+
 
 # Introduction
 
-This e-Portfolio demonstrates my developing understanding of Business Process Management (BPM) and process analysis across Weeks 1–3. The four selected artefacts explore the importance of BPM, business process optimisation, process analysis using data, and Root Cause Analysis. Together, they demonstrate my learning progression from understanding fundamental BPM concepts to analysing process problems and identifying opportunities for effective process improvement.
+This e-Portfolio demonstrates my developing understanding of Business Process Management (BPM) and process analysis across Weeks 1–3. The four selected artefacts explore the importance of **BPM, business process optimisation, process analysis using data, and Root Cause Analysis**. Together, they demonstrate my learning progression from understanding fundamental BPM concepts to analysing process problems and identifying opportunities for effective process improvement.
 
----
+
 
 # Artefact 1
 
 ## Title
 **What is Business Process Management (BPM)? Why Does BPM Matter?**
 
-Type: Journal Article (2025)
+## Type: Journal Article (2025)
 
  **Source**
 
@@ -70,7 +69,7 @@ Peer-reviewed Conference Contribution / Proceedings (2025)
 
 Dijkman, R.M. (2025), ‘Business Process Optimization’, in A. Senderovich, C. Cabanillas, I. Vanderfeesten & H.A. Reijers (eds), *Business Process Management: 23rd International Conference, BPM 2025, Seville, Spain, August 31–September 5, 2025, Proceedings*, Lecture Notes in Computer Science, vol. 16044, Springer, Cham, pp. 13–16.
 
-https://doi.org/10.1007/978-3-032-02867-9_2
+## https://doi.org/10.1007/978-3-032-02867-9_2
 
 ![Business Process Optimization](artefact2.png)
 
@@ -84,14 +83,14 @@ Dijkman (2025) explains Business Process Optimization (BPO) as the use of quanti
 
 I selected this artefact because it extended my Week 2 understanding of the BPM life cycle. I learned that process improvement should continue beyond initial analysis and design, with processes being evaluated and optimised over time. Before studying this topic, I thought process changes were mainly made when problems occurred. I now understand that continuous optimisation supports performance, customer value and better organisational decisions.
 
----
+
 
 # Artefact 3
 
 ## Title
 Why Process Analysis? Understanding and Improving Business Processes
 
-Type: Educational / Professional Webinar (2025)
+## Type: Educational / Professional Webinar (2025)
 
 Source:
 QPR Software (2025), *Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining*, webinar, 5 March 2025.
@@ -114,14 +113,14 @@ This webinar explains how process mining provides a data-driven approach to iden
 
 I selected this webinar because it strengthened my understanding of process analysis from Week 3. Previously, I thought process problems were mainly identified through observation. I learned that process data can provide evidence about inefficiencies and their impact on organisational performance. This helped me understand why organisations should analyse their current processes and gather relevant evidence before deciding how a process should be improved.
 
----
+
 
 # Artefact 4
 
 ## Title
 Root Cause Analysis: Using the 5 Whys to Identify Process Problems
 
-Type: Educational YouTube Video (2025)
+## Type: Educational YouTube Video (2025)
 
 **Source**
 
@@ -141,7 +140,6 @@ This video explains the 5 Whys as a Root Cause Analysis technique used to invest
 
 I selected this video because Root Cause Analysis was an important part of my Week 3 learning. Previously, I thought identifying a process problem was enough to begin fixing it. I now understand that the visible problem may only be a symptom of deeper causes. The 5 Whys technique helped me understand why analysts should investigate underlying causes before recommending process improvements.
 
----
 
 # References
 
@@ -155,7 +153,7 @@ QPR Software (2025) *Turn Your Business Processes into Goldmines – Drive Opera
 
 Sales Training International (2025) *Problem Solving Using the 5 Whys Root Cause Analysis Method*, YouTube video, 25 June 2025, https://www.youtube.com/watch?v=KZ0TM7olGZ0.
 
----
+
 
 # AI Use Statement
 
