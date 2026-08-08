@@ -45,7 +45,7 @@ This journal article explains that Business Process Management (BPM) is more tha
 
 **Reflection**
 
-As an Information Systems student working in customer service, I realised that well-managed business processes can improve service quality, reduce delays and create a better customer experience. I selected this article because it strengthened my understanding of the importance of BPM, which was introduced in Week 1 (Galea, 2026, Week 1 slides). Before studying this topic, I thought BPM mainly focused on documenting business processes. After reading this article and reviewing the lecture, I realised that BPM is a strategic management approach that supports decision-making, continuous improvement and organisational performance. This artefact helped me connect the theoretical concepts from Week 1 with a real-world research example and showed me why BPM is essential for organisations operating in a rapidly changing digital environment.
+As an Information Systems student working in customer service, I realised that well-managed business processes can improve service quality, reduce delays and create a better customer experience. I selected this article because it strengthened my understanding of the importance of BPM, which was introduced in Week 1 (Galea, 2026). Before studying this topic, I thought BPM mainly focused on documenting business processes. After reading this article and reviewing the lecture, I realised that BPM is a strategic management approach that supports decision-making, continuous improvement and organisational performance. This artefact helped me connect the theoretical concepts from Week 1 with a real-world research example and showed me why BPM is essential for organisations operating in a rapidly changing digital environment.
 
 ---
 
@@ -137,13 +137,15 @@ I selected this video because Root Cause Analysis was an important part of my We
 
 # References
 
-Dijkman, R. M. (2025). Business process optimization. In A. Senderovich, C. Cabanillas, I. Vanderfeesten, & H. A. Reijers (Eds.), Business Process Management: 23rd International Conference, BPM 2025, Seville, Spain, August 31–September 5, 2025, Proceedings (pp. 13–16). Springer. https://doi.org/10.1007/978-3-032-02867-9_2
+Dijkman, R.M. (2025) ‘Business Process Optimization’, in Senderovich, A., Cabanillas, C., Vanderfeesten, I. & Reijers, H.A. (eds), *Business Process Management: 23rd International Conference, BPM 2025, Seville, Spain, August 31–September 5, 2025, Proceedings*, Lecture Notes in Computer Science, vol. 16044, Springer, Cham, pp. 13–16, https://doi.org/10.1007/978-3-032-02867-9_2.
 
-Pham, Q. H., & Vu, K. P. (2025). Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation. Business Process Management Journal, 31(8), 67–103. https://doi.org/10.1108/BPMJ-06-2024-0467
+Galea, D. (2026) *COIT20252 Business Process Management: Week 1 lecture slides*, CQUniversity, Moodle.
 
-QPR Software. (2025, March 5). Turn your business processes into goldmines: Drive operational excellence with process mining [Webinar]. QPR Software webinar
+Pham, Q.H. & Vu, K.P. (2025) ‘Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation’, *Business Process Management Journal*, vol. 31, no. 8, pp. 67–103, https://doi.org/10.1108/BPMJ-06-2024-0467.
 
-Sales Training International. (2025, June 25). Problem solving using the 5 Whys root cause analysis method [Video]. YouTube. YouTube video
+QPR Software (2025) *Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining*, webinar, 5 March 2025.
+
+Sales Training International (2025) *Problem Solving Using the 5 Whys Root Cause Analysis Method*, YouTube video, 25 June 2025, https://www.youtube.com/watch?v=KZ0TM7olGZ0.
 
 ---
 
