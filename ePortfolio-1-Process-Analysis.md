@@ -45,7 +45,7 @@ As an Information Systems student working in customer service, I realised that w
 # Artefact 2
 
 ## Title
-BPM Life Cycle
+Business Process Optimization 
 
 **Type**:
 Peer-reviewed Conference Contribution / Proceedings (2025)
