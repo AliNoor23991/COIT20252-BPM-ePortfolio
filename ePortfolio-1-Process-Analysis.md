@@ -45,7 +45,7 @@ As an Information Systems student working in customer service, I realised that w
 # Artefact 2
 
 ## Title
-BPM Life Cycle & Core Principles
+BPM Life Cycle
 **Source:**
 
 **Summary**
