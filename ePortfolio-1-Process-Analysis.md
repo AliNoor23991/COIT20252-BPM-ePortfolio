@@ -15,10 +15,6 @@ Unit Coordinator
 Shakir Karim
 Tutor
 
-**Topic:** Process Analysis
-
-**Submission:** e-Portfolio 1
-
 
 
 # Introduction
