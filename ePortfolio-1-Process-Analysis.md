@@ -29,7 +29,10 @@ Type: Journal Article (2025)
 
  **Source**
 
-Huy, P.Q. & Phuc, V.K. (2025). *Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation*. Business Process Management Journal, 31(8), 67–103.
+Pham, Q.H. & Vu, K.P. (2025), ‘Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation’, *Business Process Management Journal*, vol. 31, no. 8, pp. 67–103.
+
+https://doi.org/10.1108/BPMJ-06-2024-0467
+
 ## DOI: https://doi.org/10.1108/BPMJ-06-2024-0467
 
 ![Business Process Management and Digital Transformation](artefact1.png)
@@ -54,14 +57,12 @@ Business Process Optimization
 **Type**:
 Peer-reviewed Conference Contribution / Proceedings (2025)
 
-**Source:**
-Dijkman, R.M. (2025). ‘Business Process Optimization’, in Senderovich, A.,
-Cabanillas, C., Vanderfeesten, I. & Reijers, H.A. (eds),
-*Business Process Management: 23rd International Conference, BPM 2025,
-Seville, Spain, August 31–September 5, 2025, Proceedings*,
-Lecture Notes in Computer Science, vol. 16044, Springer, Cham,
-pp. 13–16.
-## https://doi.org/10.1007/978-3-032-02867-9_2
+
+**Source**
+
+Dijkman, R.M. (2025), ‘Business Process Optimization’, in A. Senderovich, C. Cabanillas, I. Vanderfeesten & H.A. Reijers (eds), *Business Process Management: 23rd International Conference, BPM 2025, Seville, Spain, August 31–September 5, 2025, Proceedings*, Lecture Notes in Computer Science, vol. 16044, Springer, Cham, pp. 13–16.
+
+https://doi.org/10.1007/978-3-032-02867-9_2
 
 ![Business Process Optimization](artefact2.png)
 
@@ -85,8 +86,7 @@ Why Process Analysis? Understanding and Improving Business Processes
 Type: Educational / Professional Webinar (2025)
 
 Source:
-QPR Software (2025), Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining, webinar, 5 March 2025.
-QPR Software — Turn Your Business Processes into Goldmines
+QPR Software (2025), *Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining*, webinar, 5 March 2025.
 
 ![Process Mining for Process Analysis](artefact3.png)
 
@@ -117,7 +117,7 @@ Type: Educational YouTube Video (2025)
 
 **Source**
 
-Sales Training International (2025), Problem Solving Using the 5 Whys Root Cause Analysis Method, YouTube video, 25 June 2025.
+Sales Training International (2025), *Problem Solving Using the 5 Whys Root Cause Analysis Method*, YouTube video, 25 June 2025.
 
 Watch Problem Solving Using the 5 Whys Root Cause Analysis Method
 
