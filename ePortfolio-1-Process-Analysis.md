@@ -41,7 +41,7 @@ https://doi.org/10.1108/BPMJ-06-2024-0467
 
 **Summary**
 
-This journal article explains that Business Process Management (BPM) is more than improving individual business processes. It discusses how BPM capabilities help organisations make better decisions, respond to changing business environments and support sustainable digital transformation. The authors explain that BPM integrates process identification, analysis, design, implementation and monitoring to improve organisational performance and achieve strategic goals (Huy & Phuc, 2025, pp. 69–70).
+This journal article explains that Business Process Management (BPM) is more than improving individual business processes. It discusses how BPM capabilities help organisations make better decisions, respond to changing business environments and support sustainable digital transformation.The authors explain that BPM integrates process identification, analysis, design, implementation and monitoring to improve organisational performance and achieve strategic goals (Pham & Vu, 2025, pp. 69–70).
 
 **Reflection**
 
