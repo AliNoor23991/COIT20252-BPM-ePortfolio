@@ -46,7 +46,17 @@ As an Information Systems student working in customer service, I realised that w
 
 ## Title
 BPM Life Cycle
+
+**Type**:
+Peer-reviewed Conference Contribution / Proceedings (2025)
 **Source:**
+Dijkman, R.M. (2025). ‘Business Process Optimization’, in Senderovich, A.,
+Cabanillas, C., Vanderfeesten, I. & Reijers, H.A. (eds),
+*Business Process Management: 23rd International Conference, BPM 2025,
+Seville, Spain, August 31–September 5, 2025, Proceedings*,
+Lecture Notes in Computer Science, vol. 16044, Springer, Cham,
+pp. 13–16.
+## https://doi.org/10.1007/978-3-032-02867-9_2
 
 **Summary**
 
