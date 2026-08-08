@@ -72,16 +72,22 @@ I selected this artefact because it extended my Week 2 understanding of the BPM 
 # Artefact 3
 
 ## Title
-Why Process Analysis?
-**Source:**
+Why Process Analysis? Understanding and Improving Business Processes
+
+Type: Educational / Professional Webinar (2025)
+
+Source:
+QPR Software (2025), Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining, webinar, 5 March 2025.
+QPR Software — Turn Your Business Processes into Goldmines
 
 **Summary**
 
-(To be completed)
+This webinar explains how process mining provides a data-driven approach to identifying inefficiencies in business processes and measuring their financial impact. It demonstrates how organisations can identify improvement opportunities, reduce costs and improve operational performance. The webinar also shows how evidence from process mining can support better business decisions and continuous process improvement (QPR Software, 2025).
+
 
 **Reflection**
 
-(To be completed)
+I selected this webinar because it strengthened my understanding of process analysis from Week 3. Previously, I thought process problems were mainly identified through observation. I learned that process data can provide evidence about inefficiencies and their impact on organisational performance. This helped me understand why organisations should analyse their current processes and gather relevant evidence before deciding how a process should be improved.
 
 ---
 
