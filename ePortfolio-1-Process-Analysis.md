@@ -84,6 +84,14 @@ Source:
 QPR Software (2025), Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining, webinar, 5 March 2025.
 QPR Software — Turn Your Business Processes into Goldmines
 
+![Process Mining for Process Analysis](artefact3.png)
+
+*Figure 3a: Process mining as a data-driven approach to identifying inefficiencies and improving operational performance (QPR Software, 2025).*
+
+![QPR Process Mining Webinar Agenda](artefact32.png)
+
+*Figure 3b: QPR Software process mining webinar agenda, held on 5 March 2025 (QPR Software, 2025).*
+
 
 **Summary**
 
