@@ -59,7 +59,9 @@ Lecture Notes in Computer Science, vol. 16044, Springer, Cham,
 pp. 13–16.
 ## https://doi.org/10.1007/978-3-032-02867-9_2
 
-![Business Process Optimization and operational decision-making (Dijkman, 2025, p. 13)](A2p16.png)
+![Business Process Optimization and operational decision-making](images/artefact2.png)
+
+*Figure 2: Business Process Optimization and operational decision-making (Dijkman, 2025, p. 13).*
 
 **Summary**
 
@@ -81,6 +83,7 @@ Type: Educational / Professional Webinar (2025)
 Source:
 QPR Software (2025), Turn Your Business Processes into Goldmines – Drive Operational Excellence with Process Mining, webinar, 5 March 2025.
 QPR Software — Turn Your Business Processes into Goldmines
+
 
 **Summary**
 
