@@ -16,7 +16,7 @@
 
 # Introduction
 
-*(We will write this together.)*
+This e-Portfolio demonstrates my developing understanding of Business Process Management (BPM) and process analysis across Weeks 1–3. The four selected artefacts explore the importance of BPM, business process optimisation, process analysis using data, and Root Cause Analysis. Together, they demonstrate my learning progression from understanding fundamental BPM concepts to analysing process problems and identifying opportunities for effective process improvement.
 
 ---
 
@@ -117,7 +117,13 @@ I selected this video because Root Cause Analysis was an important part of my We
 
 # References
 
-(To be completed)
+Dijkman, R. M. (2025). Business process optimization. In A. Senderovich, C. Cabanillas, I. Vanderfeesten, & H. A. Reijers (Eds.), Business Process Management: 23rd International Conference, BPM 2025, Seville, Spain, August 31–September 5, 2025, Proceedings (pp. 13–16). Springer. https://doi.org/10.1007/978-3-032-02867-9_2
+
+Pham, Q. H., & Vu, K. P. (2025). Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation. Business Process Management Journal, 31(8), 67–103. https://doi.org/10.1108/BPMJ-06-2024-0467
+
+QPR Software. (2025, March 5). Turn your business processes into goldmines: Drive operational excellence with process mining [Webinar]. QPR Software webinar
+
+Sales Training International. (2025, June 25). Problem solving using the 5 Whys root cause analysis method [Video]. YouTube. YouTube video
 
 ---
 
