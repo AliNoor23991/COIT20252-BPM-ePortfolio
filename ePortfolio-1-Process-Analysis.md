@@ -49,6 +49,7 @@ BPM Life Cycle
 
 **Type**:
 Peer-reviewed Conference Contribution / Proceedings (2025)
+
 **Source:**
 Dijkman, R.M. (2025). ‘Business Process Optimization’, in Senderovich, A.,
 Cabanillas, C., Vanderfeesten, I. & Reijers, H.A. (eds),
