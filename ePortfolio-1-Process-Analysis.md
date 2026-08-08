@@ -59,6 +59,8 @@ Lecture Notes in Computer Science, vol. 16044, Springer, Cham,
 pp. 13–16.
 ## https://doi.org/10.1007/978-3-032-02867-9_2
 
+![Business Process Optimization and operational decision-making (Dijkman, 2025, p. 13)](A2 p16.png)
+
 **Summary**
 
 Dijkman (2025) explains Business Process Optimization (BPO) as the use of quantitative methods to improve operational decisions in business processes. The artefact focuses on optimisation during process redesign and execution, including decisions about resource allocation, scheduling, cost, time and customer satisfaction. It demonstrates how systematic optimisation can support better process performance rather than relying on informal improvement decisions (Dijkman, 2025, pp. 13–16).
