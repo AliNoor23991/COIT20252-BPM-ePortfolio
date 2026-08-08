@@ -111,10 +111,13 @@ Root Cause Analysis: Using the 5 Whys to Identify Process Problems
 
 Type: Educational YouTube Video (2025)
 
-Source:
+**Source**
+
 Sales Training International (2025), Problem Solving Using the 5 Whys Root Cause Analysis Method, YouTube video, 25 June 2025.
 
 Watch Problem Solving Using the 5 Whys Root Cause Analysis Method
+
+![Root Cause Analysis - 5 Whys](artefact4.png)
 
 Figure 4: The 5 Whys method distinguishes visible symptoms from the underlying causes of a problem (Sales Training International, 2025, 1:20).
 
