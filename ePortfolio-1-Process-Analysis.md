@@ -32,6 +32,10 @@ Type: Journal Article (2025)
 Huy, P.Q. & Phuc, V.K. (2025). *Unveiling how business process management capabilities foster dynamic decision-making for effectiveness of sustainable digital transformation*. Business Process Management Journal, 31(8), 67–103.
 ## DOI: https://doi.org/10.1108/BPMJ-06-2024-0467
 
+![Business Process Management and Digital Transformation](artefact1.png)
+
+*Figure 1: BPM encompasses process identification, discovery, analysis, design, implementation and monitoring to regulate and enhance business processes (Pham & Vu, 2025, p. 69).*
+
 **Summary**
 
 This journal article explains that Business Process Management (BPM) is more than improving individual business processes. It discusses how BPM capabilities help organisations make better decisions, respond to changing business environments and support sustainable digital transformation. The authors explain that BPM integrates process identification, analysis, design, implementation and monitoring to improve organisational performance and achieve strategic goals (Huy & Phuc, 2025, pp. 69–70).
