@@ -94,16 +94,24 @@ I selected this webinar because it strengthened my understanding of process anal
 # Artefact 4
 
 ## Title
-Root Cause & Bottleneck Analysis
-**Source:**
+Root Cause Analysis: Using the 5 Whys to Identify Process Problems
+
+Type: Educational YouTube Video (2025)
+
+Source:
+Sales Training International (2025), Problem Solving Using the 5 Whys Root Cause Analysis Method, YouTube video, 25 June 2025.
+
+Watch Problem Solving Using the 5 Whys Root Cause Analysis Method
+
+Figure 4: The 5 Whys method distinguishes visible symptoms from the underlying causes of a problem (Sales Training International, 2025, 1:20).
 
 **Summary**
 
-(To be completed)
+This video explains the 5 Whys as a Root Cause Analysis technique used to investigate the underlying causes of problems rather than focusing only on visible symptoms. It demonstrates how repeatedly asking “Why?” can move the analysis from a problem towards its deeper causes. This structured approach can help identify the actual reason behind a process problem before selecting an appropriate solution (Sales Training International, 2025, 1:20).
 
 **Reflection**
 
-(To be completed)
+I selected this video because Root Cause Analysis was an important part of my Week 3 learning. Previously, I thought identifying a process problem was enough to begin fixing it. I now understand that the visible problem may only be a symptom of deeper causes. The 5 Whys technique helped me understand why analysts should investigate underlying causes before recommending process improvements.
 
 ---
 
