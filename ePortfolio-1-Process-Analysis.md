@@ -61,11 +61,11 @@ pp. 13–16.
 
 **Summary**
 
-(To be completed)
+Dijkman (2025) explains Business Process Optimization (BPO) as the use of quantitative methods to improve operational decisions in business processes. The artefact focuses on optimisation during process redesign and execution, including decisions about resource allocation, scheduling, cost, time and customer satisfaction. It demonstrates how systematic optimisation can support better process performance rather than relying on informal improvement decisions (Dijkman, 2025, pp. 13–16).
 
 **Reflection**
 
-(To be completed)
+I selected this artefact because it extended my Week 2 understanding of the BPM life cycle. I learned that process improvement should continue beyond initial analysis and design, with processes being evaluated and optimised over time. Before studying this topic, I thought process changes were mainly made when problems occurred. I now understand that continuous optimisation supports performance, customer value and better organisational decisions.
 
 ---
 
