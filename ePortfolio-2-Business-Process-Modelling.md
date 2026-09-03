@@ -72,7 +72,7 @@ I selected this paper because it helped me understand the practical difference b
 # Title 
 **SIPOC and High-Level Process Mapping**
 
-“A simple overview of a business process from start to finish.”
+A simple overview of a business process from start to finish.
 
 **SIPOC stands for:**
 **S** – Supplier → Who provides something?
