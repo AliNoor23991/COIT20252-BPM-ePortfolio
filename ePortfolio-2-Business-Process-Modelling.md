@@ -14,8 +14,7 @@ Shakir Karim – Tutor
 
 ## Introduction
 
-This e-Portfolio demonstrates my developing understanding of Business Process Modelling across Weeks 4 and 5 of COIT20252. The selected artefacts will explore key concepts such as process modelling, AS-IS and TO-BE models, process mapping techniques, and process validation and simulation.
-
+This e-Portfolio demonstrates my developing understanding of **Business Process Modelling** across Weeks 4–5. The four selected artefacts explore **process models and modelling notation, AS-IS and TO-BE modelling, SIPOC process mapping, and process validation and simulation**. Together, they demonstrate my learning progression from understanding how business processes are represented to analysing, redesigning, and evaluating processes for effective business improvement.
 ---
 
 ## Artefact 1 – Business Process Modelling and BPMN
