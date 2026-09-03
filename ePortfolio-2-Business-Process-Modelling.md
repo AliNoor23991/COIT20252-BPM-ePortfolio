@@ -35,11 +35,11 @@ Business Process Modelling gives an organized way to show explain and study how 
 
 ### Summary
 
-This journal article explains that business process modelling is an important part of Business Process Management (BPM). It represents the activities, decisions and flow of a business process in a formal way. Clear process models help organisations understand how work is performed, identify inefficiencies and communicate process knowledge among stakeholders (Kourani et al., 2025, pp. 1152–1153). The article also explains that process models support analysis and improvement before changes are implemented. In addition, BPMN is identified as a widely used modelling notation because its graphical approach can represent both simple and complex business processes (Kourani et al., 2025, p. 1153).
+This journal article says that business process modelling plays a role in Business Process Management or BPM. It shows the steps, decisions and flow of a business process in a structured way. Designed process models help organizations see how work gets done spot areas that are not working well and share information about processes with people who need to know, like managers and team members (Kourani et al., 2025, pp. 1152–1153). The article also points out that process models are useful, during analysis and planning. They allow teams to see how changes might affect the process before any actual changes are made. Another important point is that BPMN is a way to create these models. It’s popular because it uses diagrams that can show both complicated business processes clearly (Kourani et al. 2025 p. 1153).
 
 ### Reflection
 
-I selected this article because it developed my understanding of business process modelling and connected strongly with the Week 4 learning materials. Before studying this topic, I thought process models were mainly simple flowcharts used to show activities. After reviewing this article, I learned that process modelling can also support process analysis, communication and improvement (Kourani et al., 2025, pp. 1152–1153). I also developed a better understanding of BPMN as a standard notation for representing activities, events and decisions in a process (Kourani et al., 2025, p. 1153). This knowledge will help me create clearer process models and identify possible inefficiencies before suggesting improvements to a business process.
+I chose this article because it helped me understand business process modelling and connected well with the materials from Week 4. Before I studied this topic I believed that process models were mostly simple flowcharts used to show steps in a process. After reading this article I realized that process modelling can also be used for analysing processes helping teams communicate clearly and improving workflows (Kourani et al. 2025, pp. 1152–1153). I also learned more about BPMN as a way to represent activities, events and decisions in a process (Kourani et al. 2025, p. 1153). This new knowledge will help me build process models and spot possible inefficiencies early on. It will also support me when making suggestions for improvements, to business processes.
 
 
 ## Artefact 2 
@@ -61,12 +61,11 @@ AS-IS = Current process → Identify problems → Improvement → TO-BE = Future
 
 ### Summary
 
-This conference paper demonstrates how AS-IS and TO-BE models can be used to analyse and improve a business process. In an equipment-maintenance scenario, an AS-IS BPMN model was first developed to represent the existing process, which included inefficient manual communication, inventory checks and paper-based requests (Radhakrishnan, 2025, p. 5). The existing model was then analysed to identify process issues. Based on this analysis, an improved TO-BE BPMN model was created to address the identified problems (Radhakrishnan, 2025, p. 5).
+The purpose of this conference paper is to show the use of AS-IS and TO-BE models for analyzing and improving a business process. An AS-IS BPMN model of the current process of equipment maintenance in a manufacturing setting, with manual communication, inventory checks and paper-based requests (Radhakrishnan, 2025, p. 5), was initially developed. After developing the AS-IS model, the AS-IS model was analyzed to find process issues. Using the results of the analysis, an improved TO-BE BPMN model of the same process, addressing the identified problems, was created (Radhakrishnan, 2025, p. 5).
 
 ### Reflection
 
-I selected this paper because it helped me understand the practical difference between AS-IS and TO-BE process modelling. Before studying this topic, I thought process modelling mainly represented the activities of an existing process. This artefact showed me that an AS-IS model can document the current process and support the identification of problems, while a TO-BE model can represent an improved future process (Radhakrishnan, 2025, p. 5). This connects strongly with my Week 4 learning and will help me compare current and improved processes more clearly when analysing business processes.
-
+I chose this article as it clarified the functional distinctions between AS-IS and TO-BE process mapping. Prior to exploring this subject, I believed that process modeling was primarily concerned with illustrating how an established operation functions. This resource demonstrated that an AS-IS diagram serves to record existing workflows and assist in pinpointing issues, whereas a TO-BE model illustrates a refined version for the future (Radhakrishnan, 2025, p. 5). This concept aligns closely with my studies from Week 4 and will enable me to more effectively contrast present and optimized methods during business process evaluations.
 
 
 ## Artefact 3 
