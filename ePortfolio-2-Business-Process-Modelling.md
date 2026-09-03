@@ -91,7 +91,8 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 **Type:** Professional Educational Article (2025)  
 
 **Source:** Cardanit (2025), *Process validation: how Process Simulation helps verify BPMN models*, 13 January 2025.
-**supporting source: YouTube video (https://youtu.be/1i3jMDn_IxA?si=lxF8ep3LMNIlJOKG)**
+
+**supporting source:** YouTube video (https://youtu.be/1i3jMDn_IxA?si=lxF8ep3LMNIlJOKG)
 
 
 **Link:** https://www.cardanit.com/blog/process-simulation-validate-bpmn-models/
