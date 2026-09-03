@@ -18,7 +18,8 @@ This e-Portfolio demonstrates my developing understanding of **Business Process 
 ---
 
 ## Artefact 1 
-### Business Process Modelling and BPMN
+# Title 
+**Business Process Modelling and BPMN**
 
 **Type:** Peer-reviewed Journal Article (2025)
 
@@ -41,7 +42,8 @@ I selected this article because it developed my understanding of business proces
 
 
 ## Artefact 2 
-### AS-IS and TO-BE Process Modelling
+# Title 
+**AS-IS and TO-BE Process Modelling**
 
 AS-IS = Current process → Identify problems → Improvement → TO-BE = Future improved process
 
@@ -67,7 +69,8 @@ I selected this paper because it helped me understand the practical difference b
 
 
 ## Artefact 3 
-### SIPOC and High-Level Process Mapping
+# Title 
+**SIPOC and High-Level Process Mapping**
 
 **Type:** Professional Industry Resource (2025)  
 
@@ -90,7 +93,8 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 ---
 
 ## Artefact 4 
-### Process Validation and Simulation
+# Title 
+**Process Validation and Simulation**
 
 **Type:** Professional Educational Article (2025)  
 
