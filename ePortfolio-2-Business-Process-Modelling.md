@@ -19,19 +19,21 @@ This e-Portfolio demonstrates my developing understanding of **Business Process 
 
 ## Artefact 1 – Business Process Modelling and BPMN
 
-**Type:**  
-**Source:**  
-**Link:**  
+**Type:** Peer-reviewed Journal Article (2025)
+
+**Source:** Kourani, H., Berti, A., Schuster, D. & van der Aalst, W.M.P. (2025), *Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis*, *Software and Systems Modeling*, pp. 1151–1186.
+
+*Figure 1: Business process modelling as a key element of BPM for understanding, documenting, analysing and improving organisational processes (Kourani et al., 2025, p. 1151).*
+
+**Link:** https://doi.org/10.1007/s10270-025-01318-w
 
 ### Summary
 
-To be completed.
+This journal article explains that business process modelling is an important part of Business Process Management (BPM). It represents the activities, decisions and flow of a business process in a formal way. Clear process models help organisations understand how work is performed, identify inefficiencies and communicate process knowledge among stakeholders. The article also explains that process models can support analysis and improvement before changes are implemented. In addition, BPMN is identified as a widely used modelling notation because its graphical approach can represent both simple and complex business processes (Kourani et al., 2025, pp. 1151–1153).
 
 ### Reflection
 
-To be completed.
-
----
+I selected this article because it developed my understanding of business process modelling and connected strongly with the Week 4 learning materials. Before studying this topic, I thought process models were mainly simple flowcharts used to show activities. After reviewing this article, I learned that process modelling can also support process analysis, communication and improvement. I also developed a better understanding of BPMN as a standard notation for representing activities, events and decisions in a process. This knowledge will help me create clearer process models and identify possible inefficiencies before suggesting improvements to a business process.
 
 ## Artefact 2 – AS-IS and TO-BE Process Modelling
 
