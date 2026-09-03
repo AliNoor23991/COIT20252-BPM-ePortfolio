@@ -23,7 +23,7 @@ This e-Portfolio demonstrates my developing understanding of **Business Process 
 
 **Source:** Kourani, H., Berti, A., Schuster, D. & van der Aalst, W.M.P. (2025), *Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis*, *Software and Systems Modeling*, pp. 1151–1186.
 
-![Artefact 1 – Business Process Modelling](eportfolio2-artefact1.png)
+![Artefact 1 – Business Process Modelling]( eportfolio2-artefact1.png.png)
 
 *Figure 1: Business process modelling as a key element of BPM for understanding, documenting, analysing and improving organisational processes (Kourani et al., 2025, p. 1151).*
 
