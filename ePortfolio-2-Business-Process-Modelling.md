@@ -100,17 +100,29 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 
 ![Artefact 4 – Process Validation and Simulation](eportfolio2-artefact4a.png)
 
-*Figure 4a: Running a BPMN process simulation in Cardanit using BPSim parameters (Cardanit, 2025, 0:19).*
+*Figure 4a: Running a BPMN process simulation in Cardanit using BPSim parameters (Cardanit, 2024, 0:19).*
 
 ### Summary
 
-This professional article explains how process simulation can be used to validate BPMN models and analyse process performance. Simulation considers parameters such as time, cost, resources and probabilities to represent real-world process behaviour (Cardanit, 2025, p. 3). It can also identify problems such as bottlenecks, deadlocks and inefficient resource utilisation during process validation (Cardanit, 2025, p. 3). The supporting Cardanit video demonstrates how a BPMN simulation can be run using BPSim parameters. Together, these resources show how simulation can move beyond a static process model to support process analysis and testing before implementation.
+This professional article explains how process simulation can be used to validate BPMN models and analyse process performance. Simulation considers parameters such as time, cost, resources and probabilities to represent real-world process behaviour (Cardanit, 2025, p. 3). It can also identify problems such as bottlenecks, deadlocks and inefficient resource utilisation during process validation (Cardanit, 2025, p. 3). The supporting Cardanit video demonstrates how a BPMN simulation is configured and run using BPSim parameters (Cardanit, 2024, 0:14–0:57). Together, these resources show how simulation can move beyond a static process model to support process analysis and testing before implementation.
 
 ### Reflection
 
-I selected this article because it is clearly related to our Week 5 lecture on process validation and simulation. The lecture introduced how simulation can validate process models, analyse performance and compare process designs. Before studying this topic, I thought reviewing the activities and flow of a BPMN model was enough to evaluate a process. This article helped me understand that simulation can identify bottlenecks, deadlocks and resource problems that may not be visible in a static model (Cardanit, 2025, p. 3). The supporting video also helped me see practically how a BPMN simulation is run using BPSim parameters. I learned that a validated model can provide a reliable baseline for testing possible process changes before implementation (Cardanit, 2025, p. 3). This will help me evaluate process models more carefully before recommending improvements.
+I selected this article because it is clearly related to our Week 5 lecture on process validation and simulation. The lecture introduced how simulation can validate process models, analyse performance and compare process designs. Before studying this topic, I thought reviewing the activities and flow of a BPMN model was enough to evaluate a process. This article helped me understand that simulation can identify bottlenecks, deadlocks and resource problems that may not be visible in a static model (Cardanit, 2025, p. 3). The supporting video also helped me understand practically how simulation parameters are configured and a BPMN simulation is run (Cardanit, 2024, 0:14–0:57). I learned that a validated model can provide a reliable baseline for testing possible process changes before implementation (Cardanit, 2025, p. 3). This will help me evaluate process models more carefully before recommending improvements.
 
----
+
+## References
+
+American Society for Quality (ASQ) 2025, *Documentation & Process Mapping*, American Society for Quality, viewed 3 September 2026, https://asq.org/-/media/public/wqm/ASQ-WQM25_Document-ProcessMapping.pdf.
+
+Cardanit 2024, ‘How to run a BPMN simulation in Cardanit using BPSim parameters’, YouTube video, 29 October, viewed 3 September 2026, https://www.youtube.com/watch?v=1i3jMDn_IxA.
+
+Cardanit 2025, ‘Process validation: how Process Simulation helps verify BPMN models’, 13 January, viewed 3 September 2026, https://www.cardanit.com/blog/process-simulation-validate-bpmn-models/.
+
+Kourani, H., Berti, A., Schuster, D. & van der Aalst, W.M.P. 2025, ‘Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis’, *Software and Systems Modeling*, https://doi.org/10.1007/s10270-025-01318-w.
+
+Radhakrishnan, U. 2025, ‘Documenting SME processes with conversational AI: from tacit knowledge to BPMN’, paper presented at the 2025 International Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2025), Cambridge, UK, 23–24 September, https://doi.org/10.1049/icp.2025.3640.
+
 
 ## AI Use Statement
 
