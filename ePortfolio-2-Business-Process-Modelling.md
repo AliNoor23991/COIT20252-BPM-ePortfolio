@@ -66,17 +66,23 @@ I selected this paper because it helped me understand the practical difference b
 
 ## Artefact 3 – SIPOC and High-Level Process Mapping
 
-**Type:**  
-**Source:**  
-**Link:**  
+**Type:** Professional Industry Resource (2025)  
+
+**Source:** American Society for Quality (ASQ) (2025), *Documentation & Process Mapping*.
+
+**Link:** https://asq.org/-/media/public/wqm/ASQ-WQM25_Document-ProcessMapping.pdf
+
+![Artefact 3 – SIPOC and High-Level Process Mapping](eportfolio2-artefact3.png)
+
+*Figure 3: High-level SIPOC+CM as a foundation for developing a detailed process map (ASQ, 2025, p. 1).*
 
 ### Summary
 
-To be completed.
+This professional resource explains how SIPOC can be used as a high-level process mapping tool to support process understanding and improvement. SIPOC identifies the Suppliers, Inputs, Process steps, Outputs and Customers involved in a process. The resource extends this to SIPOC+CM by including Constraints and Measures (ASQ, 2025, p. 1). It also explains that a high-level SIPOC diagram provides context for detailed process mapping, which can include decisions, inputs, outputs, actors and timing (ASQ, 2025, p. 1).
 
 ### Reflection
 
-To be completed.
+I selected this resource because it helped me understand the purpose of SIPOC as a high-level process mapping technique. Before studying this topic, I thought a process map needed to show every activity in detail. I learned that SIPOC can first provide a simple overview of the key elements and boundaries of a process before developing a more detailed process map (ASQ, 2025, p. 1). This connects strongly with my Week 4 learning and will help me define the scope of a process before analysing its detailed activities and identifying opportunities for improvement.
 
 ---
 
