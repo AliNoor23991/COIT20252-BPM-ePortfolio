@@ -98,6 +98,10 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 
 *Figure 4: Process simulation used to validate a BPMN model and identify potential process inefficiencies and risks (Cardanit, 2025, p. 3).*
 
+![Artefact 4 – Process Validation and Simulation](eportfolio2-artefact4a.png)
+
+*Figure 4a: Running a BPMN process simulation in Cardanit using BPSim parameters (Cardanit, 2025, 0:19).*
+
 ### Summary
 
 This professional article explains how process simulation can be used to validate BPMN models and analyse process performance. Simulation extends a process model by considering parameters such as time, cost, resources and probabilities to represent real-world process behaviour (Cardanit, 2025, p. 3). It can help identify problems such as bottlenecks, deadlocks and inefficient resource utilisation. A validated simulation model also provides a reliable baseline for testing process changes and predicting their possible outcomes before implementation (Cardanit, 2025, p. 3).
