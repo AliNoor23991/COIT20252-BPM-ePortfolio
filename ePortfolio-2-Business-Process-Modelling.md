@@ -88,23 +88,23 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 
 ## Artefact 4 – Process Validation and Simulation
 
-**Type:**  
-**Source:**  
-**Link:**  
+**Type:** Professional Educational Article (2025)  
+
+**Source:** Cardanit (2025), *Process validation: how Process Simulation helps verify BPMN models*, 13 January 2025.
+
+**Link:** https://www.cardanit.com/blog/process-simulation-validate-bpmn-models/
+
+![Artefact 4 – Process Validation and Simulation](eportfolio2-artefact4.png)
+
+*Figure 4: Process simulation used to validate a BPMN model and identify potential process inefficiencies and risks (Cardanit, 2025, p. 3).*
 
 ### Summary
 
-To be completed.
+This professional article explains how process simulation can be used to validate BPMN models and analyse process performance. Simulation extends a process model by considering parameters such as time, cost, resources and probabilities to represent real-world process behaviour (Cardanit, 2025, p. 3). It can help identify problems such as bottlenecks, deadlocks and inefficient resource utilisation. A validated simulation model also provides a reliable baseline for testing process changes and predicting their possible outcomes before implementation (Cardanit, 2025, p. 3).
 
 ### Reflection
 
-To be completed.
-
----
-
-## References
-
-To be completed.
+I selected this article because it is clearly related to our Week 5 lecture on process validation and simulation. The lecture introduced how simulation can be used to validate process models, analyse performance and compare process designs. Before studying this topic, I thought reviewing the activities and flow of a BPMN model was enough to check whether the process was effective. This article helped me understand that simulation can identify bottlenecks, deadlocks and resource problems that may not be visible in a static process model (Cardanit, 2025, p. 3). I also learned that a validated model can be used to test possible changes before implementation (Cardanit, 2025, p. 3). This will help me evaluate process models more carefully before recommending process improvements.
 
 ---
 
