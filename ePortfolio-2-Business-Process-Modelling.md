@@ -20,6 +20,8 @@ This e-Portfolio-2 shows my growing knowledge and understanding of Business Proc
 # Title 
 **Business Process Modelling and BPMN**
 
+Business Process Modelling gives an organized way to show explain and study how business processes work. BPMN, which stands for Business Process Model and Notation uses symbols and diagrams to visually display tasks, events, choices and the flow of work. This makes it easier to understand processes and communicate them effectively.
+
 **Type:** Peer-reviewed Journal Article (2025)
 
 **Source:** Kourani, H., Berti, A., Schuster, D. & van der Aalst, W.M.P. (2025), *Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis*, *Software and Systems Modeling*, pp. 1151–1186.
