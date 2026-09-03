@@ -4,7 +4,7 @@
 
 **Student Name:** Sayed Ali Noor Haque  
 **Student Number:** 12311704  
-**Unit:** COIT20252 Business Process Management  
+
 
 **Submitted to:**  
 Ahsan Morshed – Unit Coordinator  
@@ -13,7 +13,7 @@ Shakir Karim – Tutor
 ---
 ## Introduction 
 
-This e-Portfolio-2 shows my growing knowledge and understanding of Business Process Modelling during Weeks 4 and 5. The four chosen artefacts look at ideas such as business process models and modelling notation AS-IS and TO-BE process modelling, SIPOC and high-level process mapping and process validation and simulation. These artefacts together show my learning journey from knowing how business processes are shown visually to studying processes creating better future processes and checking how well processes work. This learning has made me understand better how process modelling can help with analysis, smart choices and ongoing improvements, in business processes.
+This e-Portfolio-2 shows my growing knowledge and understanding of Business Process Modelling during Weeks 4 and 5. The four chosen artefacts look at ideas such as **business process models and modelling notation AS-IS and TO-BE process modelling, SIPOC and high-level process mapping and process validation and simulation**. These artefacts together show my learning journey from knowing how business processes are shown visually to studying processes creating better future processes and checking how well processes work. This learning has made me understand better how process modelling can help with analysis, smart choices and ongoing improvements, in business processes.
 
 
 ## Artefact 1 
