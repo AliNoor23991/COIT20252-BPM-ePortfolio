@@ -12,12 +12,13 @@ Shakir Karim – Tutor
 
 ---
 
-## Introduction
+## Introduction 
 
 This e-Portfolio demonstrates my developing understanding of **Business Process Modelling** across Weeks 4–5. The four selected artefacts explore **process models and modelling notation, AS-IS and TO-BE modelling, SIPOC process mapping, and process validation and simulation**. Together, they demonstrate my learning progression from understanding how business processes are represented to analysing, redesigning, and evaluating processes for effective business improvement.
 ---
 
-## Artefact 1 – Business Process Modelling and BPMN
+## Artefact 1 
+### Business Process Modelling and BPMN
 
 **Type:** Peer-reviewed Journal Article (2025)
 
@@ -39,7 +40,8 @@ This journal article explains that business process modelling is an important pa
 I selected this article because it developed my understanding of business process modelling and connected strongly with the Week 4 learning materials. Before studying this topic, I thought process models were mainly simple flowcharts used to show activities. After reviewing this article, I learned that process modelling can also support process analysis, communication and improvement (Kourani et al., 2025, pp. 1152–1153). I also developed a better understanding of BPMN as a standard notation for representing activities, events and decisions in a process (Kourani et al., 2025, p. 1153). This knowledge will help me create clearer process models and identify possible inefficiencies before suggesting improvements to a business process.
 
 
-## Artefact 2 – AS-IS and TO-BE Process Modelling
+## Artefact 2 
+### AS-IS and TO-BE Process Modelling
 
 AS-IS = Current process → Identify problems → Improvement → TO-BE = Future improved process
 
@@ -64,7 +66,8 @@ I selected this paper because it helped me understand the practical difference b
 
 
 
-## Artefact 3 – SIPOC and High-Level Process Mapping
+## Artefact 3 
+### SIPOC and High-Level Process Mapping
 
 **Type:** Professional Industry Resource (2025)  
 
@@ -86,7 +89,8 @@ I selected this resource because it helped me understand the purpose of SIPOC as
 
 ---
 
-## Artefact 4 – Process Validation and Simulation
+## Artefact 4 
+### Process Validation and Simulation
 
 **Type:** Professional Educational Article (2025)  
 
