@@ -71,14 +71,20 @@ I selected this paper because it helped me understand the practical difference b
 ## Artefact 3 
 # Title 
 **SIPOC and High-Level Process Mapping**
+
 “A simple overview of a business process from start to finish.”
 
-SIPOC stands for:
-S – Supplier → Who provides something?
-I – Input → What is needed?
-P – Process → What activities happen?
-O – Output → What is produced?
-C – Customer → Who receives the output?
+**SIPOC stands for:**
+**S** – Supplier → Who provides something?
+
+**I** – Input → What is needed?
+
+**P** – Process → What activities happen?
+
+**O** – Output → What is produced?
+
+**C** – Customer → Who receives the output?
+
 
 **Type:** Professional Industry Resource (2025)  
 
