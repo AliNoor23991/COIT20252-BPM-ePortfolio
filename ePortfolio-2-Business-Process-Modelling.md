@@ -25,7 +25,7 @@ This e-Portfolio demonstrates my developing understanding of **Business Process 
 
 **Link:** https://doi.org/10.1007/s10270-025-01318-w
 
-![Artefact 1 – Business Process Modelling]( eportfolio2-artefact1.png.png)
+![Artefact 1 – Business Process Modelling](eportfolio2-artefact1.png.png)
 
 *Figure 1: Business process modelling as a key element of BPM for understanding, documenting, analysing and improving organisational processes (Kourani et al., 2025, p. 1151).*
 
