@@ -49,6 +49,10 @@ AS-IS = Current process → Identify problems → Improvement → TO-BE = Future
 
 **Link:** https://doi.org/10.1049/icp.2025.3640
 
+![Artefact 2 – AS-IS and TO-BE Process Modelling](eportfolio2-artefact2.png)
+
+*Figure 2: TO-BE BPMN model developed from the analysed AS-IS process to address identified process issues (Radhakrishnan, 2025, p. 4).*
+
 ### Summary
 
 This conference paper demonstrates how AS-IS and TO-BE models can be used to analyse and improve a business process. In an equipment-maintenance scenario, an AS-IS BPMN model was first developed to represent the existing process, which included inefficient manual communication, inventory checks and paper-based requests (Radhakrishnan, 2025, p. 5). The existing model was then analysed to identify process issues. Based on this analysis, an improved TO-BE BPMN model was created to address the identified problems (Radhakrishnan, 2025, p. 5).
