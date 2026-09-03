@@ -51,7 +51,7 @@ AS-IS = Current process → Identify problems → Improvement → TO-BE = Future
 **Type:** Peer-reviewed Conference Paper (2025)
 
 **Source:** Radhakrishnan, U. (2025), *Documenting SME Processes with Conversational AI: From Tacit Knowledge to BPMN*, paper presented at the 2025 International Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2025), Cambridge, UK, 23–24 September 2025.
-(file:///C:/Users/12311704/Downloads/radhakrishnan-2025-documenting-sme-processes-with-conversational-ai-from-tacit-knowledge-to-bpmn.pdf)
+
 
 **Link:** https://doi.org/10.1049/icp.2025.3640
 
