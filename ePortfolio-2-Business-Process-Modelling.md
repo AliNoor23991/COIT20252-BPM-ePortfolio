@@ -99,7 +99,7 @@ A simple overview of a business process from start to finish.
 
 ### Summary
 
-This professional resource explains how SIPOC can be used as a high-level process mapping tool to support process understanding and improvement. SIPOC identifies the Suppliers, Inputs, Process steps, Outputs and Customers involved in a process. The resource extends this to SIPOC+CM by including Constraints and Measures (ASQ, 2025, p. 1). It also explains that a high-level SIPOC diagram provides context for detailed process mapping, which can include decisions, inputs, outputs, actors and timing (ASQ, 2025, p. 1).
+This professional resource explains how SIPOC provides a simple, high-level overview of a business process. SIPOC identifies five important elements: Suppliers, Inputs, Process steps, Outputs and Customers. This helps organisations understand where a process starts, what resources are required, what activities are performed, and who receives the final output. The resource also introduces SIPOC+CM, which adds Constraints and Measures to provide more information about the process (ASQ, 2025, p. 1). A SIPOC diagram can therefore provide a useful starting point before creating a more detailed process map that includes decisions, activities, actors and timing (ASQ, 2025, p. 1).
 
 ### Reflection
 
