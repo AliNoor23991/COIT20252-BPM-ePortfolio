@@ -37,21 +37,27 @@ This journal article explains that business process modelling is an important pa
 ### Reflection
 
 I selected this article because it developed my understanding of business process modelling and connected strongly with the Week 4 learning materials. Before studying this topic, I thought process models were mainly simple flowcharts used to show activities. After reviewing this article, I learned that process modelling can also support process analysis, communication and improvement (Kourani et al., 2025, pp. 1152–1153). I also developed a better understanding of BPMN as a standard notation for representing activities, events and decisions in a process (Kourani et al., 2025, p. 1153). This knowledge will help me create clearer process models and identify possible inefficiencies before suggesting improvements to a business process.
+
+
 ## Artefact 2 – AS-IS and TO-BE Process Modelling
 
-**Type:**  
-**Source:**  
-**Link:**  
+AS-IS = Current process → Identify problems → Improvement → TO-BE = Future improved process
+
+**Type:** Peer-reviewed Conference Paper (2025)
+
+**Source:** Radhakrishnan, U. (2025), *Documenting SME Processes with Conversational AI: From Tacit Knowledge to BPMN*, paper presented at the 2025 International Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2025), Cambridge, UK, 23–24 September 2025.
+
+**Link:** https://doi.org/10.1049/icp.2025.3640
 
 ### Summary
 
-To be completed.
+This conference paper demonstrates how AS-IS and TO-BE models can be used to analyse and improve a business process. In an equipment-maintenance scenario, an AS-IS BPMN model was first developed to represent the existing process, which included inefficient manual communication, inventory checks and paper-based requests (Radhakrishnan, 2025, p. 5). The existing model was then analysed to identify process issues. Based on this analysis, an improved TO-BE BPMN model was created to address the identified problems (Radhakrishnan, 2025, p. 5).
 
 ### Reflection
 
-To be completed.
+I selected this paper because it helped me understand the practical difference between AS-IS and TO-BE process modelling. Before studying this topic, I thought process modelling mainly represented the activities of an existing process. This artefact showed me that an AS-IS model can document the current process and support the identification of problems, while a TO-BE model can represent an improved future process (Radhakrishnan, 2025, p. 5). This connects strongly with my Week 4 learning and will help me compare current and improved processes more clearly when analysing business processes.
 
----
+
 
 ## Artefact 3 – SIPOC and High-Level Process Mapping
 
