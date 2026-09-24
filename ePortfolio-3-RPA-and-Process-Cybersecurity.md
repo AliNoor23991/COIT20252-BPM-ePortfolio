@@ -40,7 +40,7 @@ This article explains how Robotic Process Automation (RPA) supports Business Pro
 
 ### Reflection
 
-I selected this article because it helped me understand that RPA is not only about completing tasks faster. I learned that organisations should analyse their existing processes and identify suitable activities before introducing automation. For example, routine inventory data entry could be considered for RPA, while physical stock checks and unusual discrepancies would still require human involvement. This connects with BPM because organisations need to understand and improve their processes before deciding which activities to automate.
+I selected this article because it helped me understand that RPA is not only about completing tasks faster. I learned that organisations should analyse their existing processes and identify suitable activities before introducing automation (Khantong & Sriboonlue, 2026, p. 4). For example, routine inventory data entry could be considered for RPA, while physical stock checks and unusual discrepancies would still require human involvement. This connects with BPM because process analysis can help organisations decide which activities to automate and which activities still need human involvement.
 
 ---
 
