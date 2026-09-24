@@ -18,7 +18,11 @@ Shakir Karim – Tutor
 
 This e-Portfolio 3 demonstrates my developing knowledge and understanding of Robotic Process Automation (RPA) and Process Cybersecurity in Business Process Management (BPM). RPA can support business process improvement by automating repetitive, rule-based activities, while cybersecurity helps organisations protect their information and business operations. The four selected artefacts explore the fundamental concepts of RPA, its application in business process improvement, the importance of process cybersecurity, and cybersecurity incident response. Together, these artefacts demonstrate my learning progression from understanding how automation can improve business processes to recognising the importance of protecting business information and managing cybersecurity risks. This learning has strengthened my understanding of how organisations can improve process efficiency while maintaining secure and reliable business operations.
 
-## Artefact 1: Understanding Robotic Process Automation
+### Artefact 1
+### Title
+## Understanding Robotic Process Automation
+
+Robotic Process Automation (RPA) is a technology that uses software robots to automate repetitive and rule-based business tasks. It helps organisations reduce manual work, improve accuracy, and increase process efficiency (Khantong & Sriboonlue, 2026, p. 3).
 
 **Type:** Peer-reviewed Journal Article – Systematic Literature Review (2026)
 
@@ -32,12 +36,11 @@ This e-Portfolio 3 demonstrates my developing knowledge and understanding of Rob
 
 ### Summary
 
-[Summarise the selected artefact.]
+This article explains how Robotic Process Automation (RPA) supports Business Process Management (BPM). RPA uses software robots to automate repetitive and rule-based tasks by interacting with computer applications. It can support activities such as data entry, invoice processing, and transferring information between systems (Khantong & Sriboonlue, 2026, p. 3). The authors review 83 academic studies and discuss how RPA relates to process selection, implementation, performance improvement, and organisational governance (Khantong & Sriboonlue, 2026, p. 1).
 
 ### Reflection
 
-[Explain what you learned, why you selected it and
-how it connects to BPM.]
+I selected this article because it helped me understand that RPA is not only about completing tasks faster. I learned that organisations should analyse their existing processes and identify suitable activities before introducing automation. For example, routine inventory data entry could be considered for RPA, while physical stock checks and unusual discrepancies would still require human involvement. This connects with BPM because organisations need to understand and improve their processes before deciding which activities to automate.
 
 ---
 
