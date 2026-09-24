@@ -20,11 +20,11 @@ This e-Portfolio 3 demonstrates my developing knowledge and understanding of Rob
 
 ## Artefact 1: Understanding Robotic Process Automation
 
-**Type:** [Source type]
+**Type:** Peer-reviewed Journal Article – Systematic Literature Review (2026)
 
-**Source:** [Full source details]
+**Source:** Khantong, S. & Sriboonlue, P. (2026), ‘Robotic Process Automation in Business Process Management: A Systematic Literature Review and an Integrated Framework’, *Technologies*, vol. 14, no. 4, article 225.
 
-**Link:** [Direct source link]
+**Link:** https://doi.org/10.3390/technologies14040225
 
 ![Figure 1](images/artefact1.png)
 
