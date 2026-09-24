@@ -26,9 +26,9 @@ This e-Portfolio 3 demonstrates my developing knowledge and understanding of Rob
 
 **Link:** https://doi.org/10.3390/technologies14040225
 
-![Figure 1](images/artefact1.png)
+![Figure 1](images/artefact13.png)
 
-*Figure 1: [Caption with citation and page number]*
+*Figure 1: Definition of RPA and its use in automating repetitive business tasks (Khantong & Sriboonlue, 2026, p. 3).*
 
 ### Summary
 
