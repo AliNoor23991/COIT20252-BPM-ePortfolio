@@ -16,10 +16,7 @@ Shakir Karim – Tutor
 
 ## Introduction
 
-[Briefly introduce the topic and explain the learning
-progression across the four selected artefacts.]
-
----
+This e-Portfolio 3 demonstrates my developing knowledge and understanding of Robotic Process Automation (RPA) and Process Cybersecurity in Business Process Management (BPM). RPA can support business process improvement by automating repetitive, rule-based activities, while cybersecurity helps organisations protect their information and business operations. The four selected artefacts explore the fundamental concepts of RPA, its application in business process improvement, the importance of process cybersecurity, and cybersecurity incident response. Together, these artefacts demonstrate my learning progression from understanding how automation can improve business processes to recognising the importance of protecting business information and managing cybersecurity risks. This learning has strengthened my understanding of how organisations can improve process efficiency while maintaining secure and reliable business operations.
 
 ## Artefact 1: Understanding Robotic Process Automation
 
