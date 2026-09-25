@@ -122,7 +122,14 @@ I selected this webcast because it helped me understand the importance of commun
 
 ## References
 
-[Alphabetical Harvard reference list]
+
+Australian Signals Directorate (ASD) 2025, *The Commonwealth Cyber Security Posture in 2025*, Australian Government, November 2025, viewed 25 September 2026, <https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/the-commonwealth-cyber-security-posture-in-2025>.
+
+Gunawan, A., Wijaya, M.I., Andika, N. & Lius, A. 2025, ‘Empirical study of robotic process automation: Implementation and evaluation’, *Human Behavior and Emerging Technologies*, vol. 2025, article 2876164, viewed 25 September 2026, <https://doi.org/10.1155/hbe2/2876164>.
+
+Khantong, S. & Sriboonlue, P. 2026, ‘Robotic process automation in business process management: A systematic literature review and an integrated framework’, *Technologies*, vol. 14, no. 4, article 225, viewed 25 September 2026, <https://doi.org/10.3390/technologies14040225>.
+
+Mudd, S. 2025, *Elements of effective communications for cybersecurity teams*, webcast, Software Engineering Institute, Carnegie Mellon University, 28 February, viewed 25 September 2026, <https://www.sei.cmu.edu/library/elements-of-effective-communications-for-cybersecurity-teams/>.
 
 ---
 
