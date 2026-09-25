@@ -60,11 +60,11 @@ I selected this article because it helped me understand that RPA is not only abo
 
 ### Summary
 
-[Summarise the selected artefact.]
+This article demonstrates how RPA can improve a business process through a real implementation in a university student service centre. The researchers analysed the existing process before designing and implementing an RPA solution to automate student data validation (Gunawan et al., 2025, p. 7). The results showed a significant improvement in processing time. Processing 100 student requests manually required 1,000 minutes, while RPA reduced this to 135 minutes, making the process approximately 7.5 times faster (Gunawan et al., 2025, p. 11).
 
 ### Reflection
 
-[Explain your learning and apply it to a business process.]
+I selected this artefact because it showed me how RPA can improve a real business process rather than only explaining the technology. I learned that organisations should first analyse the existing process and identify suitable activities for automation (Gunawan et al., 2025, p. 7). The comparison between manual and automated processing also helped me understand how BPM can use measurable results to evaluate process improvement (Gunawan et al., 2025, p. 11). This demonstrates that automation decisions should be supported by process analysis and performance evidence.
 
 ---
 
