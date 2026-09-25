@@ -135,5 +135,4 @@ Mudd, S. 2025, *Elements of effective communications for cybersecurity teams*, w
 
 ## AI Use Statement
 
-[Briefly describe how AI was used for planning,
-research and initial idea development.]
+Generative AI was used during the planning, research and initial idea-development stages of this assessment. All selected artefacts and sources were independently reviewed by me. 
