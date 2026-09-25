@@ -80,15 +80,17 @@ I selected this artefact because it showed me how RPA can improve a real busines
 
 ![Figure 3: Cybersecurity Incident Preparedness](artefact33.png)
 
+
 *Figure 3: Indicators of Australian Government entities’ cyber security incident preparedness (Australian Signals Directorate, 2025, p. 15).*
+
 
 ### Summary
 
-[Summarise the selected artefact.]
+This report examines the cybersecurity practices of Australian Government entities and highlights the importance of preparing for cybersecurity incidents. Cyber resilience involves an organisation’s ability to detect and manage cybersecurity events while continuing important business operations (Australian Signals Directorate, 2025, p. 14). The report explains that organisations should identify essential systems and data, include cybersecurity incidents in business continuity planning, and develop and test incident response plans (Australian Signals Directorate, 2025, p. 14). In 2025, 90% of surveyed entities had an incident response plan, showing a stronger focus on cybersecurity preparedness (Australian Signals Directorate, 2025, p. 15).
 
 ### Reflection
 
-[Explain why cybersecurity matters for BPM.]
+I selected this report because it improved my understanding of the relationship between cybersecurity and business processes. I learned that cybersecurity is not only a technical responsibility, as a cyber incident can also interrupt important business operations (Australian Signals Directorate, 2025, p. 14). The report also showed me that organisations need clear incident response plans to prepare for possible disruptions (Australian Signals Directorate, 2025, p. 15). From a BPM perspective, I now understand that an effective business process should not only be efficient but also secure and able to continue during unexpected disruptions.
 
 ---
 
