@@ -96,11 +96,11 @@ I selected this report because it improved my understanding of the relationship 
 
 ## Artefact 4: Cybersecurity Incident Response
 
-**Type:** [Source type]
+**Type:** Professional Cybersecurity Webcast (2025)
 
-**Source:** [Full source details]
+**Source:** Mudd, S. (2025), *Elements of Effective Communications for Cybersecurity Teams*, Carnegie Mellon University Software Engineering Institute.
 
-**Link:** [Direct source link]
+**Link:** https://www.sei.cmu.edu/library/elements-of-effective-communications-for-cybersecurity-teams/
 
 ![Figure 4](images/artefact4.png)
 
