@@ -34,6 +34,10 @@ Robotic Process Automation (RPA) is a technology that uses software robots to au
 
 *Figure 1: Definition of RPA and its use in automating repetitive business tasks (Khantong & Sriboonlue, 2026, p. 3).*
 
+![Figure 1b: Benefits of Robotic Process Automation](artefact1b.png)
+
+*Figure 1b: Overview of the operational benefits of Robotic Process Automation (YouAccel, 1:50).*
+
 ### Summary
 
 This article explains how Robotic Process Automation (RPA) supports Business Process Management (BPM). RPA uses software robots to automate repetitive and rule-based tasks by interacting with computer applications. It can support activities such as data entry, invoice processing, and transferring information between systems (Khantong & Sriboonlue, 2026, p. 3). The authors review 83 academic studies and discuss how RPA relates to process selection, implementation, performance improvement, and organisational governance (Khantong & Sriboonlue, 2026, p. 1).
