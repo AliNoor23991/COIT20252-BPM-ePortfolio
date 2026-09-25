@@ -20,7 +20,7 @@ This e-Portfolio 3 demonstrates my developing knowledge and understanding of Rob
 
 ### Artefact 1
 ### Title
-## Understanding Robotic Process Automation
+**Understanding Robotic Process Automation**
 
 Robotic Process Automation (RPA) is a technology that uses software robots to automate repetitive and rule-based business tasks. It helps organisations reduce manual work, improve accuracy, and increase process efficiency (Khantong & Sriboonlue, 2026, p. 3).
 
@@ -45,7 +45,9 @@ I selected this article because it helped me understand that RPA is not only abo
 ---
 
 
-## Artefact 2: RPA in Business Process Improvement
+## Artefact 2
+### Title
+**RPA in Business Process Improvement**
 
 **Type:** Peer-reviewed Empirical Research Article (2025)
 
@@ -69,7 +71,10 @@ I selected this artefact because it showed me how RPA can improve a real busines
 ---
 
 
-## Artefact 3: Process Cybersecurity
+## Artefact 3
+### Title
+
+**Process Cybersecurity**
 
 **Type:** Australian Government Cybersecurity Report (2026)
 
@@ -94,7 +99,11 @@ I selected this report because it improved my understanding of the relationship 
 
 ---
 
-## Artefact 4: Cybersecurity Incident Response
+## Artefact 4
+### Title
+
+**Cybersecurity Incident Response**
+
 
 **Type:** Professional Cybersecurity Webcast (2025)
 
@@ -106,9 +115,6 @@ I selected this report because it improved my understanding of the relationship 
 
 *Figure 4a: Organisational and governance considerations for effective cybersecurity communication (Mudd, 2025, 7:24).*
 
-![Figure 4b: Cybersecurity Incident Management Resources](artefact4b.png)
-
-*Figure 4b: Professional frameworks and guidance supporting cybersecurity incident management and communication (Mudd, 2025, 30:50).*
 
 ### Summary
 
