@@ -153,4 +153,4 @@ Radhakrishnan, U. 2025, ‘Documenting SME processes with conversational AI: fro
 
 ## AI Use Statement
 
-Generative AI was used during the planning, research and initial idea-development stages of this assessment. All selected artefacts and sources were independently reviewed by me, and I take responsibility for the final submitted work.
+ChatGPT was used to support the planning and research stages of this assessment, including identifying relevant sources, organising ideas and improving the clarity and grammar of the writing. All selected artefacts and sources were reviewed and verified by me. The final content was reviewed and edited by me, and I take responsibility for the submitted work.
