@@ -102,9 +102,13 @@ I selected this report because it improved my understanding of the relationship 
 
 **Link:** https://www.sei.cmu.edu/library/elements-of-effective-communications-for-cybersecurity-teams/
 
-![Figure 4](images/artefact4.png)
+![Figure 4a: Cybersecurity Communication Considerations](artefact4a.png)
 
-*Figure 4: [Caption with citation and page number]*
+*Figure 4a: Organisational and governance considerations for effective cybersecurity communication (Mudd, 2025, 7:24).*
+
+![Figure 4b: Cybersecurity Incident Management Resources](artefact4b.png)
+
+*Figure 4b: Professional frameworks and guidance supporting cybersecurity incident management and communication (Mudd, 2025, 30:50).*
 
 ### Summary
 
