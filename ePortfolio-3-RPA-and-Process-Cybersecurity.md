@@ -135,4 +135,4 @@ Mudd, S. 2025, *Elements of effective communications for cybersecurity teams*, w
 
 ## AI Use Statement
 
-Generative AI was used during the planning, research and initial idea-development stages of this assessment. All selected artefacts and sources were independently reviewed by me. 
+ChatGPT was used to support the planning and research stages of this assessment, including identifying relevant sources, organising ideas and improving the clarity. All selected artefacts (1,2,3,4) and sources were reviewed and verified by me. The final content was reviewed and edited by me, and I take responsibility for the submitted work.
