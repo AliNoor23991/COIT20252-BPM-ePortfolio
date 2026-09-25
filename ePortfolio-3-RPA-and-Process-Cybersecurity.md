@@ -68,17 +68,19 @@ I selected this artefact because it showed me how RPA can improve a real busines
 
 ---
 
+
 ## Artefact 3: Process Cybersecurity
 
-**Type:** [Source type]
+**Type:** Australian Government Cybersecurity Report (2026)
 
-**Source:** [Full source details]
+**Source:** Australian Signals Directorate (ASD) (2026), *The Commonwealth Cyber Security Posture in 2025*, Australian Government.
 
-**Link:** [Direct source link]
+**Link:** https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/the-commonwealth-cyber-security-posture-in-2025
 
-![Figure 3](images/artefact3.png)
 
-*Figure 3: [Caption with citation and page number]*
+![Figure 3: Cybersecurity Incident Preparedness](artefact33.png)
+
+*Figure 3: Indicators of Australian Government entities’ cyber security incident preparedness (Australian Signals Directorate, 2025, p. 15).*
 
 ### Summary
 
