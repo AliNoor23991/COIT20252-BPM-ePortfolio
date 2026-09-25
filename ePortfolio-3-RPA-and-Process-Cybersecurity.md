@@ -112,12 +112,11 @@ I selected this report because it improved my understanding of the relationship 
 
 ### Summary
 
-[Summarise the selected artefact.]
+This webcast explains the importance of effective communication in cybersecurity and incident management. Mudd explains that organisations should clearly define roles and responsibilities and consider internal and external communication, stakeholder transparency, trust, and the accuracy and timeliness of information (Mudd, 2025, 7:24). The webcast also identifies professional resources that can support cybersecurity incident management, including guidance from SEI, NIST and the FIRST CSIRT Services Framework (Mudd, 2025, 30:50). These resources show that effective incident management requires both technical preparation and organised communication.
 
 ### Reflection
 
-[Explain how your learning applies to incident
-management and business process improvement.]
+I selected this webcast because it helped me understand the importance of communication during cybersecurity incidents. I learned that organisations need clear responsibilities and effective communication with both internal and external stakeholders (Mudd, 2025, 7:24). This connects with BPM because a cybersecurity incident can interrupt normal business processes, and employees need to understand their responsibilities when responding to the incident. From this artefact, I learned that effective incident response requires not only cybersecurity controls but also clear communication and well-defined responsibilities.
 
 ---
 
