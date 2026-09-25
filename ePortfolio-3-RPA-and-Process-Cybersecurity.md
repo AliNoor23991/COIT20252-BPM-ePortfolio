@@ -44,17 +44,19 @@ I selected this article because it helped me understand that RPA is not only abo
 
 ---
 
+
 ## Artefact 2: RPA in Business Process Improvement
 
-**Type:** [Source type]
+**Type:** Peer-reviewed Empirical Research Article (2025)
 
-**Source:** [Full source details]
+**Source:** Gunawan, A. et al. (2025), ‘Empirical Study of Robotic Process Automation: Implementation and Evaluation’, *Human Behavior and Emerging Technologies*, vol. 2025, article 2876164.
 
-**Link:** [Direct source link]
+**Link:** https://doi.org/10.1155/hbe2/2876164
 
-![Figure 2](images/artefact2.png)
+![Figure 2: RPA Process Improvement](artefact23.png)
 
-*Figure 2: [Caption with citation and page number]*
+*Figure 2: Comparison of manual and RPA processing time for student requests (Gunawan et al., 2025, p. 11).*
+
 
 ### Summary
 
