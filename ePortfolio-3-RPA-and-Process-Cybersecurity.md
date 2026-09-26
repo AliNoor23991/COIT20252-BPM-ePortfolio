@@ -16,13 +16,19 @@ Shakir Karim – Tutor
 
 ## Introduction
 
-This e-Portfolio 3 demonstrates my developing knowledge and understanding of Robotic Process Automation (RPA) and Process Cybersecurity in Business Process Management (BPM). RPA can support business process improvement by automating repetitive, rule-based activities, while cybersecurity helps organisations protect their information and business operations. The four selected artefacts explore the fundamental concepts of RPA, its application in business process improvement, the importance of process cybersecurity, and cybersecurity incident response. Together, these artefacts demonstrate my learning progression from understanding how automation can improve business processes to recognising the importance of protecting business information and managing cybersecurity risks. This learning has strengthened my understanding of how organisations can improve process efficiency while maintaining secure and reliable business operations.
+This e-Portfolio 3 shows how my knowledge and comprehension of Process Cybersecurity and Robotic Process Automation (RPA) in Business Process Management (BPM) are growing. By automating repetitive, rule-based tasks, RPA may help businesses enhance their processes, and cybersecurity helps businesses safeguard their data and operations. The four chosen artifacts examine the foundational ideas of RPA, its use in business process enhancement, the significance of process cybersecurity, and cybersecurity incident response. When taken as a whole, these artifacts show my learning development from realizing how automation may enhance corporate operations to appreciating the significance of safeguarding company data and controlling cybersecurity risks. This knowledge has improved my comprehension of how businesses might increase process effectiveness while preserving safe and dependable operations.
 
 ### Artefact 1
 ### Title
 **Understanding Robotic Process Automation**
 
-Robotic Process Automation (RPA) is a technology that uses software robots to automate repetitive and rule-based business tasks. It helps organisations reduce manual work, improve accuracy, and increase process efficiency (Khantong & Sriboonlue, 2026, p. 3).
+Robotic Process Automation (RPA) is a technology that automates repetitive and rule-based commercial operations using software robots. It aids businesses in decreasing manual labor, increasing process efficiency, and improving accuracy (Khantong & Sriboonlue, 2026, p. 3).Robotic Process Automation (RPA) is a software technology that automates repetitive, rule-based computer operations by using virtual "bots" to simulate human behaviors.
+
+Core Benefits: 
+
+- **Accuracy:** RPA can reduce human errors when performing repetitive data-entry tasks (YouAccel, 2025, 1:50).
+- **Speed:** Software robots can operate continuously without fatigue or breaks, allowing tasks to be completed faster (YouAccel, 2025, 1:50).
+- **Efficiency:** RPA can reduce repetitive manual work and allow employees to focus on higher-value activities (YouAccel, 2025, 1:50).
 
 **Type:** Peer-reviewed Journal Article – Systematic Literature Review (2026)
 
@@ -40,11 +46,11 @@ Robotic Process Automation (RPA) is a technology that uses software robots to au
 
 ### Summary
 
-This article explains how Robotic Process Automation (RPA) supports Business Process Management (BPM). RPA uses software robots to automate repetitive and rule-based tasks by interacting with computer applications. It can support activities such as data entry, invoice processing, and transferring information between systems (Khantong & Sriboonlue, 2026, p. 3). The authors review 83 academic studies and discuss how RPA relates to process selection, implementation, performance improvement, and organisational governance (Khantong & Sriboonlue, 2026, p. 1).
+This article describes how Business Process Management (BPM) is supported by Robotic Process Automation (RPA). RPA uses software robots that interact with computer programs to automate repetitive and rule-based tasks. Data entry, processing invoices, and information transfer across systems are among the tasks it may assist with (Khantong & Sriboonlue, 2026, p. 3). The writers examine 83 scholarly works and talk about the relationship between RPA and organizational governance, performance enhancement, process selection, and implementation (Khantong & Sriboonlue, 2026, p. 1).
 
 ### Reflection
 
-I selected this article because it helped me understand that RPA is not only about completing tasks faster. I learned that organisations should analyse their existing processes and identify suitable activities before introducing automation (Khantong & Sriboonlue, 2026, p. 4). For example, routine inventory data entry could be considered for RPA, while physical stock checks and unusual discrepancies would still require human involvement. This connects with BPM because process analysis can help organisations decide which activities to automate and which activities still need human involvement.
+I chose this article because it clarified for me that RPA is about more than just finishing jobs more quickly. I discovered that before implementing automation, businesses should evaluate their current procedures and choose appropriate tasks (Khantong & Sriboonlue, 2026, p. 4). For instance, RPA might be used for normal inventory data entry, but human intervention would still be necessary for physical stock inspections and anomalous discrepancies. This relates to BPM since process analysis can assist organizations in determining which tasks should be automated and which still require human intervention.
 
 ---
 
@@ -52,6 +58,15 @@ I selected this article because it helped me understand that RPA is not only abo
 ## Artefact 2
 ### Title
 **RPA in Business Process Improvement**
+
+Robotic Process Automation (RPA) improves business operations by deploying software bots to execute repetitive, rule-based tasks with high speed and zero human error.
+
+Key Implementation Steps:
+
+1. **Identify Processes:** Select structured, repetitive and rule-based processes that are suitable for automation.
+2. **Analyse Workflows:** Examine the existing process to identify activities and possible opportunities for automation.
+3. **Design and Develop:** Configure the RPA solution to perform selected tasks and interact with existing systems.
+4. **Monitor and Improve:** Evaluate the performance of the automated process and make improvements when required (Khantong & Sriboonlue, 2026, p. 4).
 
 **Type:** Peer-reviewed Empirical Research Article (2025)
 
@@ -80,6 +95,9 @@ I selected this artefact because it showed me how RPA can improve a real busines
 
 **Process Cybersecurity**
 
+A process in cybersecurity is a routine, repeatable set of steps an organization uses to prevent, detect, and respond to digital threats.
+The 5 key steps of cyber security—based on the widely recognized NIST Cybersecurity Framework lifecycle—are Identify, Protect, Detect, Respond, and Recover (Sneha, 2025)
+
 **Type:** Australian Government Cybersecurity Report (2026)
 
 **Source:** Australian Signals Directorate (ASD) (2026), *The Commonwealth Cyber Security Posture in 2025*, Australian Government.
@@ -107,7 +125,16 @@ I selected this report because it improved my understanding of the relationship 
 ### Title
 
 **Cybersecurity Incident Response**
+Incident response in cybersecurity is a structured, step-by-step process an organization uses to detect, contain, and recover from a cyberattack or security breach.
+The Six Phases of Incident Response
+A commonly used incident response lifecycle includes six main phases:
 
+- **Preparation:** Establishing response plans, teams, tools and procedures before an incident occurs.
+- **Detection and Analysis:** Identifying suspicious activities and determining whether a cybersecurity incident has occurred.
+- **Containment:** Isolating affected systems to prevent the incident from spreading.
+- **Eradication:** Removing malware, vulnerabilities or other causes of the incident.
+- **Recovery:** Restoring affected systems and returning business operations to normal.
+- **Lessons Learned:** Reviewing the incident and improving security controls and response procedures for future incidents (SANS Institute, 2017).
 
 **Type:** Professional Cybersecurity Webcast (2025)
 
