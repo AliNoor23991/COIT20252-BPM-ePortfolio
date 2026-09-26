@@ -135,7 +135,7 @@ I selected this report because it improved my understanding of the relationship 
 
 **Cybersecurity Incident Response**
 Incident response in cybersecurity is a structured, step-by-step process an organization uses to detect, contain, and recover from a cyberattack or security breach.
-The Six Phases of Incident Response
+The **Six Phases** of Incident Response
 A commonly used incident response lifecycle includes six main phases:
 
 - **Preparation:** Establishing response plans, teams, tools and procedures before an incident occurs.
