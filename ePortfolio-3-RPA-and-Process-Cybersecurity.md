@@ -13,7 +13,17 @@ Ahsan Morshed – Unit Coordinator
 Shakir Karim – Tutor
 
 ---
+## Table of Contents
 
+- [Introduction](#introduction)
+- [Artefact 1: Understanding Robotic Process Automation](#artefact-1-understanding-robotic-process-automation)
+- [Artefact 2: RPA in Business Process Improvement](#artefact-2-rpa-in-business-process-improvement)
+- [Artefact 3: Process Cybersecurity](#artefact-3-process-cybersecurity)
+- [Artefact 4: Cybersecurity Incident Response](#artefact-4-cybersecurity-incident-response)
+- [References](#references)
+- [AI Use Statement](#ai-use-statement)
+
+---
 ## Introduction
 
 This e-Portfolio 3 shows how my knowledge and comprehension of Process Cybersecurity and Robotic Process Automation (RPA) in Business Process Management (BPM) are growing. By automating repetitive, rule-based tasks, RPA may help businesses enhance their processes, and cybersecurity helps businesses safeguard their data and operations. The **four chosen artifacts examine the foundational ideas of RPA, its use in business process enhancement, the significance of process cybersecurity, and cybersecurity incident response**. When taken as a whole, these artifacts show my learning development from realizing how automation may enhance corporate operations to appreciating the significance of safeguarding company data and controlling cybersecurity risks. This knowledge has improved my comprehension of how businesses might increase process effectiveness while preserving safe and dependable operations.
