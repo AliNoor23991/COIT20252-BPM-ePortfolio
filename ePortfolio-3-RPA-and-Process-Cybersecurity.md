@@ -104,12 +104,11 @@ I selected this artefact because it showed me how RPA can improve a real busines
 
 **Process Cybersecurity**
 
-A process in cybersecurity is a routine, repeatable set of steps an organization uses to prevent, detect, and respond to digital threats.
-The 5 key steps of cyber security—based on the widely recognized NIST Cybersecurity Framework lifecycle—are Identify, Protect, Detect, Respond, and Recover (Sneha, 2025)
+A process in cybersecurity is a routine, repeatable set of steps an organization uses to prevent, detect, and respond to digital threats. The 5 key steps of cyber security—based on the widely recognized NIST Cybersecurity Framework lifecycle—are Identify, Protect, Detect, Respond, and Recover.
 
-**Type:** Australian Government Cybersecurity Report (2026)
+**Type:** Australian Government Cybersecurity Report (2025)
 
-**Source:** Australian Signals Directorate (ASD) (2026), *The Commonwealth Cyber Security Posture in 2025*, Australian Government.
+**Source:** Australian Signals Directorate (ASD) (2025), *The Commonwealth Cyber Security Posture in 2025*, Australian Government.
 
 **Link:** https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/the-commonwealth-cyber-security-posture-in-2025
 
@@ -137,13 +136,12 @@ I selected this report because it improved my understanding of the relationship 
 Incident response in cybersecurity is a structured, step-by-step process an organization uses to detect, contain, and recover from a cyberattack or security breach.
 The **Six Phases** of Incident Response
 A commonly used incident response lifecycle includes six main phases:
-
 - **Preparation:** Establishing response plans, teams, tools and procedures before an incident occurs.
 - **Detection and Analysis:** Identifying suspicious activities and determining whether a cybersecurity incident has occurred.
 - **Containment:** Isolating affected systems to prevent the incident from spreading.
 - **Eradication:** Removing malware, vulnerabilities or other causes of the incident.
 - **Recovery:** Restoring affected systems and returning business operations to normal.
-- **Lessons Learned:** Reviewing the incident and improving security controls and response procedures for future incidents (SANS Institute, 2017).
+- **Lessons Learned:** Reviewing the incident and improving security controls and response procedures for future incidents 
 
 **Type:** Professional Cybersecurity Webcast (2025)
 
