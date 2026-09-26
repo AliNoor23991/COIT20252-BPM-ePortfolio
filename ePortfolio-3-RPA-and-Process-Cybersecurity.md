@@ -63,11 +63,10 @@ Robotic Process Automation (RPA) improves business operations by deploying softw
 
 Key Implementation Steps:
 
-1. **Identify Processes:** Select structured, repetitive and rule-based processes that are suitable for automation.
-2. **Analyse Workflows:** Examine the existing process to identify activities and possible opportunities for automation.
-3. **Design and Develop:** Configure the RPA solution to perform selected tasks and interact with existing systems.
-4. **Monitor and Improve:** Evaluate the performance of the automated process and make improvements when required (Khantong & Sriboonlue, 2026, p. 4).
-
+1. **Identify procedures:** Choose repetitive, rule-based, organized procedures that can be automated.
+2. **Analyze Workflows:** Look at the current procedure to find tasks and potential automation opportunities.
+3. **Design and Develop:** Set up the RPA system to carry out specific activities and communicate with current systems.
+4. **Monitor and Improve:** Assess the automated process's effectiveness and make necessary adjustments (Khantong & Sriboonlue, 2026, p. 4).
 **Type:** Peer-reviewed Empirical Research Article (2025)
 
 **Source:** Gunawan, A. et al. (2025), ‘Empirical Study of Robotic Process Automation: Implementation and Evaluation’, *Human Behavior and Emerging Technologies*, vol. 2025, article 2876164.
